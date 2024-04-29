@@ -2,7 +2,7 @@
   "name": "water-tracker-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://troshuk.github.io/water-tracker-app/",
+  "homepage": "https://GoitStudentsWorks.github.io/fs-93-react-node-Troshuk/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
