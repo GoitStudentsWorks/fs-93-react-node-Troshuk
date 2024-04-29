@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-93-react-node-Troshuk/static/css/main.374a49bf.css",
-    "main.js": "/fs-93-react-node-Troshuk/static/js/main.039d4d5d.js",
+    "main.js": "/fs-93-react-node-Troshuk/static/js/main.0639e3b2.js",
     "static/css/499.5cdfd927.chunk.css": "/fs-93-react-node-Troshuk/static/css/499.5cdfd927.chunk.css",
     "static/js/499.0b40ccf4.chunk.js": "/fs-93-react-node-Troshuk/static/js/499.0b40ccf4.chunk.js",
     "static/js/14.4959b752.chunk.js": "/fs-93-react-node-Troshuk/static/js/14.4959b752.chunk.js",
@@ -78,7 +78,7 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/fs-93-react-node-Troshuk/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/fs-93-react-node-Troshuk/index.html",
     "main.374a49bf.css.map": "/fs-93-react-node-Troshuk/static/css/main.374a49bf.css.map",
-    "main.039d4d5d.js.map": "/fs-93-react-node-Troshuk/static/js/main.039d4d5d.js.map",
+    "main.0639e3b2.js.map": "/fs-93-react-node-Troshuk/static/js/main.0639e3b2.js.map",
     "499.5cdfd927.chunk.css.map": "/fs-93-react-node-Troshuk/static/css/499.5cdfd927.chunk.css.map",
     "499.0b40ccf4.chunk.js.map": "/fs-93-react-node-Troshuk/static/js/499.0b40ccf4.chunk.js.map",
     "14.4959b752.chunk.js.map": "/fs-93-react-node-Troshuk/static/js/14.4959b752.chunk.js.map",
@@ -94,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.374a49bf.css",
-    "static/js/main.039d4d5d.js"
+    "static/js/main.0639e3b2.js"
   ]
 }
