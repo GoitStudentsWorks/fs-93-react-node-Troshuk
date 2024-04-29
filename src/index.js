@@ -16,7 +16,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <Provider store={store} loading={<PageLoader />}>
     <PersistGate loading={<PageLoader />} persistor={persistor}>
-      <BrowserRouter basename="/water-tracker-app">
+      <BrowserRouter basename="/fs-93-react-node-Troshuk">
         <App />
       </BrowserRouter>
     </PersistGate>
